@@ -1,0 +1,73 @@
+{
+	"title": "学员故事",
+	"banner": "./static/student/banner.jpg",
+	"intro": "我们来自洛基，这是一个温暖、奋斗、充满正能量的大家庭。五湖四海的我们汇集到这里，学习英语练好口语，走向世界从洛基开始。<br><br>洛基·梦之声——洛基英语专为优秀学员、优秀讲师提供的展示平台，报道学员、讲师的真实故事及成长经历，带给大家更多的正能量！",
+	"list": [
+		{
+			"id": 1,
+			"head": "./static/student/31.jpg",
+			"name": "张凌",
+			"description": "有远见的她，更懂得如何去追梦",
+			"url": "https://mp.weixin.qq.com/s/YmklyaPzHFprW-8Azcylig"
+		},
+		{
+			"id": 2,
+			"head": "./static/student/13.jpg",
+			"name": "徐晶洁",
+			"description": "一个不努力的人，别人想拉你一把都找不到你的手",
+			"url": "http://mp.weixin.qq.com/s/G83z3nnsN9W5ThWFGCrd_w"
+		},
+		{
+			"id": 3,
+			"head": "./static/student/17.jpg",
+			"name": "彭丽丽",
+			"description": "一名小学英语老师内心的独白！",
+			"url": "http://mp.weixin.qq.com/s/_X0WVcER8BQSWLBOUOtDiA"
+		},
+		{
+			"id": 4,
+			"head": "./static/student/11.jpg",
+			"name": "张邵祺",
+			"description": "看看什么是开挂的人生！",
+			"url": "http://mp.weixin.qq.com/s/NBhe-2jSjdIik7St5hZEYA"
+		}
+		,
+		{
+			"id": 5,
+			"head": "./static/student/4.jpg",
+			"name": "高艺",
+			"description": "洛基英语，愿做你走向成功的巨人的肩膀",
+			"url": "http://mp.weixin.qq.com/s/BU8W6DX2ZOZGREZxYBPflQ"
+		}
+		,
+		{
+			"id": 6,
+			"head": "./static/student/8.jpg",
+			"name": "Dora",
+			"description": "做孩子的表率，被学生崇拜，这个爱学英语的老师很成功",
+			"url": "http://mp.weixin.qq.com/s/F1d72HHMcnXiWAEG8whsRA"
+		}
+		,
+		{
+			"id": 7,
+			"head": "./static/student/16.jpg",
+			"name": "王明珠",
+			"description": "你充满正能量的样子真的很美",
+			"url": "http://mp.weixin.qq.com/s/RiQNAHrG4Hhpf_-D8tjsdw"
+		},
+		{
+			"id": 8,
+			"head": "./static/student/14.jpg",
+			"name": "吴新慧",
+			"description": "感谢时光，让14岁最好的她邂逅了62岁最好的她！",
+			"url": "http://mp.weixin.qq.com/s/6keRIYtwEMP6T3FL3N-WEw"
+		},
+		{
+			"id": 9,
+			"head": "./static/student/3.jpg",
+			"name": "龚锐霞",
+			"description": "运动、拉琴、学英语，孤独者的日子也可以过得很精彩",
+			"url": "http://mp.weixin.qq.com/s/uD3hiFf1lPmkLgW1pGXiHg"
+		}
+	]
+}

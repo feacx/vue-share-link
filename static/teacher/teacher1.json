@@ -1,0 +1,72 @@
+[
+	{
+		"id": 10,
+		"head": "./static/teacher/11.jpg",
+		"name": "Joe",
+		"description": "洛基优秀讲师英语，专业八级，三年英语口语教学经验，“外研杯”英语演讲比赛一等奖，“Solar Decathlon”美国赛队优秀志愿者",
+		"url": "http://mp.weixin.qq.com/s/SIHzhKdeteD82VAqmYLKCw"
+	},
+	{
+		"id": 11,
+		"head": "./static/teacher/12.jpg",
+		"name": "Allen",
+		"description": "毕业于上海外国语大学，英语及广播电视新闻双专业，英语专业八级通过，口语培训内容覆盖日常会话、工作英语及少儿英语。",
+		"url": "http://mp.weixin.qq.com/s/Quo8wg9bP-c9L5qrVE7S3w"
+	},
+	{
+		"id": 12,
+		"head": "./static/teacher/13.jpg",
+		"name": "Andy",
+		"description": "3年口语在线教学经验，3年试题教学经验，CATTI英语二级口译资格证，擅长帮助学员专项突破英语口语及公众演说",
+		"url": "http://mp.weixin.qq.com/s/KN4vokRF-4K7S-U_8bBZpA"
+	},
+	{
+		"id": 13,
+		"head": "./static/teacher/14.jpg",
+		"name": "Karen",
+		"description": "洛基英语优秀讲师，英语专业8级，5年口语教学经验",
+		"url": "http://mp.weixin.qq.com/s/1RBfS_03MvXn0cc6Dz6gbQ"
+	},
+	{
+		"id": 14,
+		"head": "./static/teacher/15.jpg",
+		"name": "Chandler",
+		"description": "上海洛基英语明星讲师，English VIP项目分部经理，“外研社”杯英语演讲比赛上海赛区一等奖，辩论赛二等奖",
+		"url": "http://mp.weixin.qq.com/s/XI6WLICPJlZnmnbGbanO5Q"
+	},
+	{
+		"id": 15,
+		"head": "./static/teacher/16.jpg",
+		"name": "Anna",
+		"description": "洛基雅思专项培训师，洛基高级定制讲师，，英语专业8级，省级口语大赛一等奖，5年口语教学经验",
+		"url": "http://mp.weixin.qq.com/s/7gDk5abnXiMoYoLAeUQzCQ"
+	},
+	{
+		"id": 16,
+		"head": "./static/teacher/17.jpg",
+		"name": "Paige",
+		"description": "英语专业八级，洛基集训营助教讲师，洛基教研部教研员，曾担任英文剧本翻译，参与电影英文配音",
+		"url": "http://mp.weixin.qq.com/s/SIHzhKdeteD82VAqmYLKCw"
+	},
+	{
+		"id": 17,
+		"head": "./static/teacher/18.jpg",
+		"name": "Kim",
+		"description": "上海洛基国际优秀讲师，第一届“新东方”杯上海交通大学站口语比赛获奖，NASA（美国国家航空航天局）官网文章研究与翻译，上海商务接待指定陪同翻译",
+		"url": "http://mp.weixin.qq.com/s/2YlzSRmQlEjXZVg6F_vveA"
+	},
+	{
+		"id": 18,
+		"head": "./static/teacher/19.jpg",
+		"name": "Abby",
+		"description": "毕业于上海外国语大学，英语及广播电视新闻双专业，英语专业八级通过，口语培训内容覆盖日常会话、工作英语及少儿英语。",
+		"url": "http://mp.weixin.qq.com/s/Quo8wg9bP-c9L5qrVE7S3w"
+	},
+	{
+		"id": 19,
+		"head": "./static/teacher/20.jpg",
+		"name": "Mark",
+		"description": "一个集帅气和成熟于一身，对英语教学有着十分独到的男子",
+		"url": "http://mp.weixin.qq.com/s/CKjWhPiEBIwX8eztxIpkuA"
+	}
+]

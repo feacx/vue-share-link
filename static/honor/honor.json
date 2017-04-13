@@ -1,0 +1,49 @@
+{
+	"title": "企业荣誉展示",
+	"banner": "./static/honor/banner.jpg",
+	"intro": "从创建之初，合伙人们从睡地板开始，满腔斗志，让洛基初具雏形。<br />到后来，无数有志青年组成优良教师团队，不断优化教学，荣辱与共，为了教育的梦想携手共进。<br />再到如今，洛基英语继续深度优化教学体系，不断拓宽线上教育资源，积极推进洛基合伙人计划，为我国的教育事业出工出力。<br />教育是一辈子的事，作为在线教育的践行者，洛基英语愿以梦为马，不忘初心，一直努力和付出下去！",
+	"list": [
+		{
+			"id": 1,
+			"head": "http://www.rockyenglish.com/Public/images/index/honor/brand/1.jpg",
+			"name": "中国网",
+			"description": "2016年度品牌影响力在线教育机构",
+			"url": "http://mp.weixin.qq.com/s/LL0Q12BIxuBdRHHSA_w96Q"
+		},
+		{
+			"id": 2,
+			"head": "http://www.rockyenglish.com/Public/images/index/honor/brand/4.jpg",
+			"name": "中国网",
+			"description": "中国好教育2016年度家长信赖儿童教育品牌",
+			"url": "http://mp.weixin.qq.com/s/hxIJ65PRsEy03G2sPIR6xg"
+		},
+		{
+			"id": 3,
+			"head": "http://www.rockyenglish.com/Public/images/index/honor/brand/5.jpg",
+			"name": "腾讯网",
+			"description": "腾讯网教育2016年度影响力外语教育品牌",
+			"url": "http://mp.weixin.qq.com/s/vQTO6_m5D6GGdjVRuS-Sww"
+		},
+		{
+			"id": 4,
+			"head": "http://www.rockyenglish.com/Public/images/index/honor/brand/6.jpg",
+			"name": "腾讯网",
+			"description": "2016年度社会影响力儿童教育品牌",
+			"url": "http://mp.weixin.qq.com/s/6Wds_8PaWZXTdtitWYyYzw"
+		},
+		{
+			"id": 5,
+			"head": "http://www.rockyenglish.com/Public/images/index/honor/brand/0.jpg",
+			"name": "爱奇艺",
+			"description": "2016年度爱奇艺教育最受欢迎教育品牌",
+			"url": "http://mp.weixin.qq.com/s/xOsuyDYH3kE3u_tkoyriTg"
+		},
+		{
+			"id": 6,
+			"head": "http://www.rockyenglish.com/Public/images/index/honor/brand/0.jpg",
+			"name": "腾讯网",
+			"description": "2015年度竞争力在线教育品牌",
+			"url": "http://mp.weixin.qq.com/s/K4clbIzq6SLrQbwzov-WOA"
+		}
+	]
+}

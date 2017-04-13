@@ -1,0 +1,56 @@
+[
+	{
+		"id": 1,
+		"head": "./static/teacher/1.jpg",
+		"name": "Andy",
+		"description": "平日里，为大家推送的都是洛基学员或者合伙人的文章，让大家看到了在洛基取得进步的小伙伴，今天呢，给大家换换口味"
+	},
+	{
+		"id": 2,
+		"head": "./static/teacher/2.jpg",
+		"name": "Abby",
+		"description": "Rocky TV名师频道Abby周婉萍毕业于上海外国语大学英语及广播电视新闻双专业英语专业八级通过口语培训内"
+	},
+	{
+		"id": 3,
+		"head": "./static/teacher/3.jpg",
+		"name": "Abby",
+		"description": "Rocky TV名师频道Abby周婉萍毕业于上海外国语大学英语及广播电视新闻双专业英语专业八级通过口语培训内"
+	},
+	{
+		"id": 1,
+		"head": "./static/teacher/1.jpg",
+		"name": "Andy",
+		"description": "平日里，为大家推送的都是洛基学员或者合伙人的文章，让大家看到了在洛基取得进步的小伙伴，今天呢，给大家换换口味"
+	},
+	{
+		"id": 2,
+		"head": "./static/teacher/2.jpg",
+		"name": "Abby",
+		"description": "Rocky TV名师频道Abby周婉萍毕业于上海外国语大学英语及广播电视新闻双专业英语专业八级通过口语培训内"
+	},
+	{
+		"id": 3,
+		"head": "./static/teacher/3.jpg",
+		"name": "Abby",
+		"description": "Rocky TV名师频道Abby周婉萍毕业于上海外国语大学英语及广播电视新闻双专业英语专业八级通过口语培训内"
+	},
+	{
+		"id": 1,
+		"head": "./static/teacher/1.jpg",
+		"name": "Andy",
+		"description": "平日里，为大家推送的都是洛基学员或者合伙人的文章，让大家看到了在洛基取得进步的小伙伴，今天呢，给大家换换口味"
+	},
+	{
+		"id": 2,
+		"head": "./static/teacher/2.jpg",
+		"name": "Abby",
+		"description": "Rocky TV名师频道Abby周婉萍毕业于上海外国语大学英语及广播电视新闻双专业英语专业八级通过口语培训内"
+	},
+	{
+		"id": 3,
+		"head": "./static/teacher/3.jpg",
+		"name": "Abby",
+		"description": "Rocky TV名师频道Abby周婉萍毕业于上海外国语大学英语及广播电视新闻双专业英语专业八级通过口语培训内"
+	}
+]

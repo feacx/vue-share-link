@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"head": "http://www.rockyenglish.com/Public/images/index/honor/brand/1.jpg",
+		"name": "新浪网",
+		"description": "最具品牌影响力外语教育机构"
+	},
+	{
+		"id": 2,
+		"head": "http://www.rockyenglish.com/Public/images/index/honor/brand/4.jpg",
+		"name": "网易",
+		"description": "2013年度最具影响力外语培训机构"
+	},
+	{
+		"id": 3,
+		"head": "http://www.rockyenglish.com/Public/images/index/honor/brand/5.jpg",
+		"name": "腾讯网",
+		"description": "腾讯十年最具影响力外语品牌"
+	},
+	{
+		"id": 4,
+		"head": "http://www.rockyenglish.com/Public/images/index/honor/brand/6.jpg",
+		"name": "新华网",
+		"description": "2013中国知名品牌外语教育机构"
+	},
+	{
+		"id": 5,
+		"head": "http://www.rockyenglish.com/Public/images/index/honor/brand/0.jpg",
+		"name": "沪江网",
+		"description": "最具口碑影响力英语口语培训机构"
+	}
+]
