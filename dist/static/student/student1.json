@@ -1,0 +1,65 @@
+[
+	{
+		"id": 10,
+		"head": "./static/student/21.jpg",
+		"name": "刘雅馨",
+		"description": "她大学是英语专业，却依然选择在洛基英语学习",
+		"url": "http://mp.weixin.qq.com/s/ZBace4TJdjRJ7zy1zCXneA"
+	},
+	{
+		"id": 11,
+		"head": "./static/student/6.jpg",
+		"name": "邓超丽",
+		"description": "高考英语138分，为何还来洛基学英语？",
+		"url": "http://mp.weixin.qq.com/s/9pArcHs7fhZXSGcGf40lLQ"
+	},
+	{
+		"id": 12,
+		"head": "./static/student/12.jpg",
+		"name": "张彩云",
+		"description": "重走青春，我的未来开出了花儿！",
+		"url": "http://mp.weixin.qq.com/s/cK3c6gzK4c1Ur3QzNId-yw"
+	},
+	{
+		"id": 13,
+		"head": "./static/student/29.jpg",
+		"name": "胡晨旭",
+		"description": "有限的精力做喜爱的事",
+		"url": "http://mp.weixin.qq.com/s/R8fvcRndCisSR44Mt8ngHA"
+	},
+	{
+		"id": 14,
+		"head": "./static/student/26.jpg",
+		"name": "李德",
+		"description": "把英语学习做到极致，拥抱诗和远方!",
+		"url": "http://mp.weixin.qq.com/s/04GukGOUYZwyEZgZDvYfhg"
+	},
+	{
+		"id": 15,
+		"head": "./static/student/20.jpg",
+		"name": "刘颖",
+		"description": "保持年轻的秘诀-要运动，更要学习",
+		"url": "http://mp.weixin.qq.com/s/vXUr_rnt3LN0hxmLKT6oEw"
+	},
+	{
+		"id": 16,
+		"head": "./static/student/9.jpg",
+		"name": "朱建文",
+		"description": "50岁最好的生活状态",
+		"url": "http://mp.weixin.qq.com/s/UQZURL8R2aP0VG0TCIW57w"
+	},
+	{
+		"id": 17,
+		"head": "./static/student/25.jpg",
+		"name": "李福兴",
+		"description": "跑过去的是昨天，奔过来的是明天，正在走的是今天",
+		"url": "http://mp.weixin.qq.com/s/H2QnVbJWL2X7Vi778oYPwQ"
+	},
+	{
+		"id": 18,
+		"head": "./static/student/1.jpg",
+		"name": "贺芯",
+		"description": "相遇是缘，洛基是见证我成长的亲密伙伴",
+		"url": "http://mp.weixin.qq.com/s/_YlXLzj7ot1eXap7zjPcYw"
+	}
+]

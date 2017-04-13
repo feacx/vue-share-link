@@ -1,0 +1,70 @@
+{
+	"title": "明星讲师团",
+	"banner": "./static/teacher/totest.jpg",
+	"intro": "我们拥有一批高质量专业教学及教务团队、优质的教学资源 <br /><br /> 拥有完善的专业服务体系，为学员提供全程、专业的在线英语教育服务。洛基的中外教不仅教学经验丰富、风趣幽默<br /><br />更善于激发学员的学习潜能、改善学员的学习方法，帮助学员快速提高英语能力。",
+	"list": [
+		{
+			"id": 3,
+			"head": "./static/teacher/3.jpg",
+			"name": "Roxy",
+			"description": "激情，敬业,开创了“游戏化教学体系”，寓教于乐，耐心负责。循序渐进的授课方式广受学员的喜爱",
+			"url": "http://mp.weixin.qq.com/s/wsro6JCklGTdcTiea811Cg"
+		},
+		{
+			"id": 4,
+			"head": "./static/teacher/4.jpg",
+			"name": "Steven",
+			"description": "优秀讲师，3年口语培训经验；大型外贸企业商务接待及口译经验；专8 &TOEIC（托业）",
+			"url": "http://mp.weixin.qq.com/s/C3aiqw5lZslIV-3oUYRICQ"
+		},
+		{
+			"id": 5,
+			"head": "./static/teacher/5.jpg",
+			"name": "Ray",
+			"description": "English VIP教师团队名副其实“王牌播音员”",
+			"url": "http://mp.weixin.qq.com/s/C3aiqw5lZslIV-3oUYRICQ"
+		},
+		{
+			"id": 6,
+			"head": "./static/teacher/6.jpg",
+			"name": "Peggy",
+			"description": "英语专业硕士，英语专业八级，TT小组代经理，语法教学经验丰富，英语口语熟练流利 ",
+			"url": "http://mp.weixin.qq.com/s/-kGD2k6oieogFGhqsuyCrA"
+		},
+		{
+			"id": 7,
+			"head": "./static/teacher/7.jpg",
+			"name": "Fanny",
+			"description": "上海洛基英语教学经理，公会8606明星讲师，英语专业八级，剑桥商务英语中级",
+			"url": "https://mp.weixin.qq.com/s/FAX7fOrAgdJeClqXd19Lsg"
+		},
+		{
+			"id": 8,
+			"head": "./static/teacher/8.jpg",
+			"name": "Jane",
+			"description": "上海洛基英语优秀讲师，上海洛基讲师经理，英语专业八级优秀，匈牙利校方的陪同口译经历",
+			"url": "http://mp.weixin.qq.com/s/bnETuLRTXKvykIzQ3iKrCg"
+		},
+		{
+			"id": 9,
+			"head": "./static/teacher/9.jpg",
+			"name": "Heather",
+			"description": "洛基英语优秀讲师，英语专业八级，获得省级翻译比赛笔译组一等奖，手持高级英语教师资格证书。",
+			"url": "https://mp.weixin.qq.com/s/IxvWcciBuqNU5s0sIQAwDQ"
+		},
+		{
+			"id": 2,
+			"head": "./static/teacher/2.jpg",
+			"name": "Adea",
+			"description": "洛基的外教之一,发音标准，教学经验丰富",
+			"url": "http://mp.weixin.qq.com/s/ib5TNPWrOFanPZJiOQtsQQ"
+		},
+		{
+			"id": 1,
+			"head": "./static/teacher/1.jpg",
+			"name": "Hero",
+			"description": "上海洛基英语优秀讲师，英语专业八级，上外高级口译，雅思听力口语双料8分，上海商学院雅思特邀讲师",
+			"url": "http://mp.weixin.qq.com/s/UgxXHw6utuj-v-oZw_Hfvw"
+		}
+	]
+}

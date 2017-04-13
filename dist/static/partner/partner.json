@@ -1,0 +1,189 @@
+{
+	"title": "洛基合伙人",
+	"banner": "./static/partner/banner.jpg",
+	"intro": "洛基合伙人，是洛基在该大学或者该城市的负责人，享有洛基相应资源的优先使用权，负责该大学或该城市线下团队组建，当地洛基相关活动组织，洛基品牌树立、宣传与推广。<br /><br />成为洛基合伙人，我们就拥有了：<br />资源：享有所在城市洛基英语，相关资源的优先使用权。<br />财富：线下推广，获得丰厚报酬，课程现金双丰收。<br />成长：塑造明星合伙人 , 成为网红不是梦。<br />事业：优秀合伙人可获得实习证明、全职机会！",
+	"list": [
+		{
+			"id": 1,
+			"head": "./static/student/3.jpg",
+			"name": "江琴",
+			"description": "孩子，寄托着父母美好的期望，纽扣住一个家的幸福，我要做好榜样，给孩子以指引。",
+			"url": "http://mp.weixin.qq.com/s/OdF9-qGlnrvAW_x1bo7O0Q"
+		},
+		{
+			"id": 2,
+			"head": "./static/student/3.jpg",
+			"name": "聂琳",
+			"description": "英语水平快速提升让我感到自豪，感到荣幸！同时，我她也想把这份幸运给到身边的每一个朋友。",
+			"url": "http://mp.weixin.qq.com/s/QWqM3Im3JLz7hEkhaXNcIw"
+		},
+		{
+			"id": 3,
+			"head": "./static/student/3.jpg",
+			"name": "石凤月",
+			"description": "洛基给我一个平台，让我可以组织自己的团队，我自己策划学习内容，给大家分享学习心得，我可以充分展示自己！",
+			"url": "http://mp.weixin.qq.com/s/s0o-TavTL48d7RdefdyH6Q"
+		},
+		{
+			"id": 4,
+			"head": "./static/student/3.jpg",
+			"name": "王越钢",
+			"description": "我是一名英语爱好者，更是一个父亲，我希望将自己学到的，也教给女儿。成为合伙人，就是想将自己喜欢做的事分享出去",
+			"url": "http://mp.weixin.qq.com/s/gcTMzbBB6UywNBNJBrUYtg"
+		},
+		{
+			"id": 5,
+			"head": "./static/student/3.jpg",
+			"name": "赵艳",
+			"description": "当你觉得自己走偏的时候，咱们一起停下来回头看看，开始的时候我们为什么选择了它，然后继续前行的动力也就有了",
+			"url": "http://mp.weixin.qq.com/s/Z6KG7IOLRoYxhW-I9RT5-A"
+		},
+		{
+			"id": 6,
+			"head": "./static/student/3.jpg",
+			"name": "黄璐璐",
+			"description": "好好学习总不会有错的，既然选择了就不要后悔，英语不止是一门语言，更是一门投资，能够让自己变得更好，并看到更好更大的世界！",
+			"url": "http://mp.weixin.qq.com/s/8D39NTW6DeCEMbVZj_XyJA"
+		},
+		{
+			"id": 7,
+			"head": "./static/student/3.jpg",
+			"name": "李伟云",
+			"description": "加入洛基我从没后悔过，在这里不仅能收获知识，还可以见识更多更广泛的人和事，还有可以让自己永永葆青春活力",
+			"url": "http://mp.weixin.qq.com/s/EAb7W-xQ7oSgT3mlruRCRA"
+		},
+		{
+			"id": 8,
+			"head": "./static/student/3.jpg",
+			"name": "张永华",
+			"description": "“成为合伙人是一种表率，时刻提醒着我要努力练习，更好的帮助群里的小伙伴。成为合伙人也是一种责任，在线教育前景一片光明，让更多人享受到它带来的帮助”",
+			"url": "http://mp.weixin.qq.com/s/1OU_UB4q50wvAMs9d7tK8w"
+		},
+		{
+			"id": 9,
+			"head": "./static/student/3.jpg",
+			"name": "徐晓娟",
+			"description": "“我一直很喜欢教育事业，可是出于种种原因，我没有成为一名教师，我希望能通过洛基合伙人这个项目，完成我一直以来的梦想。”",
+			"url": "http://mp.weixin.qq.com/s/p5rM9uzuTtn_DpA4kyEI7g"
+		},
+		{
+			"id": 10,
+			"head": "./static/student/3.jpg",
+			"name": "杨卫卫",
+			"description": "“年轻，拼的就是勇气，我要为自己代言，为洛基代言！希望未来的某天英语也能成为我的事业”",
+			"url": "http://mp.weixin.qq.com/s/HPCwO7O36VUMfGANBVQOtg"
+		},
+		{
+			"id": 11,
+			"head": "./static/student/3.jpg",
+			"name": "李海燕",
+			"description": "“现在是全球化的时代，如果你不想out of fashion，你就必须抓住潮流，而抓住这一切的关键点就是抓住英语。”",
+			"url": "http://mp.weixin.qq.com/s/cDq279P-zaoWKQrxEa4Dxw"
+		},
+		{
+			"id": 12,
+			"head": "./static/student/3.jpg",
+			"name": "张大勇",
+			"description": "“来洛基，结识了许多上进的老师以及优秀的学员，似乎又让我重新找回了关于人生的那份激情”",
+			"url": "http://mp.weixin.qq.com/s/ZFNjTkFGcZswOy_YEm36cw"
+		},
+		{
+			"id": 13,
+			"head": "./static/student/3.jpg",
+			"name": "谭巧连",
+			"description": "“洛基的课程内容很实用，让我们在学习的过程中能够做到学以致用。所以，只要你愿意花时间学习，你就一定可以流利地说英语！”",
+			"url": "http://mp.weixin.qq.com/s/omKWn02LL7XVhaueg7-Ifw"
+		},
+		{
+			"id": 14,
+			"head": "./static/student/3.jpg",
+			"name": "陈玲",
+			"description": "“洛基英语是一个非常强大的英语学习网络平台！老师们都非常专业、细心、有亲和力！上课的模式也和传统的课堂模式截然不同！”",
+			"url": "http://mp.weixin.qq.com/s/gHGJKRz4dnlfKlCLD7V7rQ"
+		},
+		{
+			"id": 15,
+			"head": "./static/student/3.jpg",
+			"name": "郭淑君",
+			"description": "“加入合伙人既能有更多的资源来提高自己的英语水平，又能交到许多志同道的朋友，而且还能获得一定的收入，一举几得，何乐而不为呢?”",
+			"url": "http://mp.weixin.qq.com/s/qf5QwOkg6NJL64KjDu8uNw"
+		},
+		{
+			"id": 16,
+			"head": "./static/student/3.jpg",
+			"name": "刘敏",
+			"description": "“洛基学习让我有了家的感觉，这个家里有同龄的兄弟姐妹，年长的叔叔阿姨，年幼的孩子。在这里不仅学习了知识还交到了友谊”",
+			"url": "https://mp.weixin.qq.com/s/--iSMukQJkECrQRjzvjakg"
+		},
+		{
+			"id": 17,
+			"head": "./static/student/3.jpg",
+			"name": "刘秀明",
+			"description": "“洛基的学员们，跟着洛基老师学英语是你们作出的最正确选择，在这样充满正能量团队的带领下，相信你必有所成！”",
+			"url": "http://mp.weixin.qq.com/s/tVKWzSmSm6u59HsvQt4Fbw"
+		},
+		{
+			"id": 18,
+			"head": "./static/student/3.jpg",
+			"name": "王咏梅",
+			"description": "“在洛基学习，不仅仅自己可以得到学习英语的机会，而且还可以带动更多人共同进步。一人独乐，不如众乐！”",
+			"url": "http://mp.weixin.qq.com/s/K8ggpMfDB750V216q5bInw"
+		},
+		{
+			"id": 19,
+			"head": "./static/student/3.jpg",
+			"name": "王秀和",
+			"description": "“有了英语会有无限个可能，成就自我人生的无限精彩，让我们为加入洛基机构的这个正确选择喝彩吧!”   ",
+			"url": "http://mp.weixin.qq.com/s/fG-sfcSNimNP5EuqPM3yiQ"
+		},
+		{
+			"id": 20,
+			"head": "./static/student/3.jpg",
+			"name": "程玲",
+			"description": "“洛基的老师们都很年轻富有创造力，在服务上也是无微不至，都有一颗做好一件事的决心。能成为“洛基合伙人”之一，很荣幸！” ",
+			"url": "http://mp.weixin.qq.com/s/xQyoRC40Et2ooADNDPoUvQ"
+		},
+		{
+			"id": 21,
+			"head": "./static/student/3.jpg",
+			"name": "王桂平",
+			"description": "“我学英语的目标很简单也很明确，就是想要得到自己理想中的工作。我想把洛基这个平台传播出去，希望更多的人能够因此获益。”     ",
+			"url": "https://mp.weixin.qq.com/s/7Kbpk0G0zt5cViA4oIwaeQ"
+		},
+		{
+			"id": 22,
+			"head": "./static/student/3.jpg",
+			"name": "缪月华",
+			"description": "“在洛基学习的这段时间里，让我真正感受到了洛基是很认真地在做教育，我想用自己的成长和改变，影响更多的人”",
+			"url": "http://mp.weixin.qq.com/s/VJI1lwh9mK9upqgz2D0Ssg"
+		},
+		{
+			"id": 23,
+			"head": "./static/student/3.jpg",
+			"name": "张凌",
+			"description": "“在这里，不仅能学到英语，还能获得机会，甚至是改变命运。给自己一个机会，我们在洛基等你” ",
+			"url": "http://mp.weixin.qq.com/s/7vRHe4j0imT4qquHDBDjFg"
+		},
+		{
+			"id": 24,
+			"head": "./static/student/3.jpg",
+			"name": "曹婷",
+			"description": "“学无止境，成为洛基合伙人，是我对自己英语学习的嘉奖，也是人生身份的转变”",
+			"url": "http://mp.weixin.qq.com/s/Uon0jSl3jxlTcsV7VXX_kA"
+		},
+		{
+			"id": 25,
+			"head": "./static/student/3.jpg",
+			"name": "席春玲",
+			"description": "“我觉得洛基是一个非常好的学习平台，我只是想让更多的人认识洛基，想与大家一起分享学习英语的乐趣”",
+			"url": "http://mp.weixin.qq.com/s/z8b9mQxoJxXxr4DMdyN55w"
+		},
+		{
+			"id": 26,
+			"head": "./static/student/3.jpg",
+			"name": "张达亮",
+			"description": "“其实我觉得洛基的方法值得推广，适合那些想学习英语，但是找不到好的方法的学生，特别怕学不会的人”",
+			"url": "http://mp.weixin.qq.com/s/gkJFB9-U36mpjtKH0dReZg"
+		}
+	]
+}
